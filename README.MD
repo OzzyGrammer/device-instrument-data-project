@@ -29,3 +29,21 @@ The web application allows users to view numeric and text parameter data over ti
    - make sure the backend is running on port 8000
    - Instructions on project Readme [Django Project Readme](measurement-fu-fe/README.MD)
 
+## Images
+
+![Image Alt Text](Screenshot 2024-04-04 at 22.33.47.png)
+
+
+![Image Alt Text](Screenshot 2024-04-04 at 22.34.14.png)
+
+
+![Image Alt Text](Screenshot 2024-04-04 at 22.33.47.png)
+
+
+![Image Alt Text](Screenshot 2024-04-04 at 22.34.14.png)
+
+
+![Image Alt Text](Screenshot 2024-04-04 at 22.35.34.png)
+
+
+![Image Alt Text](Screenshot 2024-04-04 at 22.35.45.png)
