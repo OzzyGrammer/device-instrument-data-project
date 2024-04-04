@@ -31,19 +31,19 @@ The web application allows users to view numeric and text parameter data over ti
 
 ## Images
 
-![Image Alt Text](Screenshot 2024-04-04 at 22.33.47.png)
+![Image Alt Text](Screenshot1.png)
 
 
-![Image Alt Text](Screenshot 2024-04-04 at 22.34.14.png)
+![Image Alt Text](Screenshot2.png)
 
 
-![Image Alt Text](Screenshot 2024-04-04 at 22.33.47.png)
+![Image Alt Text](Screenshot3.png)
 
 
-![Image Alt Text](Screenshot 2024-04-04 at 22.34.14.png)
+![Image Alt Text](Screenshot4.png)
 
 
-![Image Alt Text](Screenshot 2024-04-04 at 22.35.34.png)
+![Image Alt Text](Screenshot5.png)
 
 
-![Image Alt Text](Screenshot 2024-04-04 at 22.35.45.png)
+![Image Alt Text](Screenshot6.png)
