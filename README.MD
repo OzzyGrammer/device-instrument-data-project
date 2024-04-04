@@ -31,19 +31,19 @@ The web application allows users to view numeric and text parameter data over ti
 
 ## Images
 
-![Image Alt Text](Screenshot1.png)
+![image](Images/Screenshot1.png)
 
 
-![Image Alt Text](Screenshot2.png)
+![image](Images/Screenshot2.png)
 
 
-![Image Alt Text](Screenshot3.png)
+![image](Images/Screenshot3.png)
 
 
-![Image Alt Text](Screenshot4.png)
+![image](Images/Screenshot4.png)
 
 
-![Image Alt Text](Screenshot5.png)
+![image](Images/Screenshot5.png)
 
 
-![Image Alt Text](Screenshot6.png)
+![image](Images/Screenshot6.png)
