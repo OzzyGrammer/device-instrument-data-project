@@ -8,7 +8,7 @@ The web application allows users to view numeric and text parameter data over ti
 
 ## Technologies Used
 
-- **Nextjs Frontend**: A JavaScript library for building user interfaces.
+- **Nextjs Frontend**: The React Framework for the Web
 - **Django Backend**: Django intergrated with graphql APIS
 - **Postgres Database**: I Chose PostgreSQL to store my data.
 - **Charting Library**: I used a react-chartjs-2 package to visualise the data using charts.
