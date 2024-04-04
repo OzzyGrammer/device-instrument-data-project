@@ -1,0 +1,10 @@
+# Python bytecode
+__pycache__
+
+# local dev environment
+venv/
+.env
+sample.json
+sample10k.json
+db.sqlite3
+.DS_Store

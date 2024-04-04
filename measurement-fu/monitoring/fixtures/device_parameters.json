@@ -1,0 +1,142 @@
+[
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.foo",
+            "title": "parameter.foo",
+            "timestamp": "2024-03-07T12:22:07.315194+02:00",
+            "value": 801.4240531704808,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.foo",
+            "title": "parameter.bar",
+            "timestamp": "2024-03-07T12:22:07.315194+02:00",
+            "value": "ZMOWMakhfHq",
+            "type": "text"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.foo",
+            "title": "parameter.corge",
+            "timestamp": "2024-03-07T12:22:07.315194+02:00",
+            "value": 88.98969014488878,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.foo",
+            "title": "parameter.batch",
+            "timestamp": "2024-03-07T12:22:07.315194+02:00",
+            "value": "KeujEhBetUXErjIH",
+            "type": "text"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "parameter.baz",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": 78.14654697740619,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "parameter.qux",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": "QozKi",
+            "type": "text"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "parameter.waldo",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": 562.0395747272293,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "parameter.cat",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": "yaL",
+            "type": "text"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "tenantB.datasourceA.baz",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": 323.4157733513242,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "tenantB.deviceBar.datasourceA.baz",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": "AoXELjtcXxd",
+            "type": "text"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "tenantB.deviceBar.datasourceA.qux",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": 624.9041721161373,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "tenantB.deviceBar.datasourceA.waldo",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": "Kduj",
+            "type": "text"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "tenantB.deviceBar.datasourceB.cat",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": 819.4770791394772,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "your_app.parameter",
+        "fields": {
+            "device": "device.bar",
+            "title": "tenantB.deviceBar.datasourceB.dog",
+            "timestamp": "2024-03-07T12:22:07.325847+02:00",
+            "value": "MPnZSQYWI",
+            "type": "text"
+        }
+    }
+]

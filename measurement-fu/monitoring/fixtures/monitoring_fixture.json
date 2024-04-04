@@ -1,0 +1,50 @@
+[
+    {
+        "model": "monitoring.device",
+        "pk": 1,
+        "fields": {
+            "title": "device.foo"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 1,
+        "fields": {
+            "device": 1,
+            "title": "parameter.foo"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "fields": {
+            "parameter": 1,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": 219.55849598589694,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.device",
+        "pk": 2,
+        "fields": {
+            "title": "device.bar"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 2,
+        "fields": {
+            "device": 2,
+            "title": "parameter.baz"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "fields": {
+            "parameter": 2,
+            "timestamp": "2024-03-07T12:21:07.039807+02:00",
+            "value": 707.2730977292821,
+            "type": "numeric"
+        }
+    }
+]

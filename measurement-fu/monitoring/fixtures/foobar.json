@@ -1,0 +1,358 @@
+[
+    {
+        "model": "monitoring.device",
+        "pk": 1,
+        "fields": {
+            "title": "device.bar"
+        }
+    },
+    {
+        "model": "monitoring.device",
+        "pk": 2,
+        "fields": {
+            "title": "device.foo"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 1,
+        "fields": {
+            "device": 1,
+            "title": "parameter.baz"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 2,
+        "fields": {
+            "device": 1,
+            "title": "parameter.qux"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 3,
+        "fields": {
+            "device": 1,
+            "title": "parameter.waldo"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 4,
+        "fields": {
+            "device": 1,
+            "title": "parameter.cat"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 5,
+        "fields": {
+            "device": 1,
+            "title": "tenantB.datasourceA.baz"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 6,
+        "fields": {
+            "device": 1,
+            "title": "tenantB.deviceBar.datasourceA.baz"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 7,
+        "fields": {
+            "device": 2,
+            "title": "parameter.foo"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 8,
+        "fields": {
+            "device": 2,
+            "title": "parameter.bar"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 9,
+        "fields": {
+            "device": 2,
+            "title": "parameter.corge"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 10,
+        "fields": {
+            "device": 2,
+            "title": "parameter.batch"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 11,
+        "fields": {
+            "device": 2,
+            "title": "tenantB.datasourceA.bfaz"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 12,
+        "fields": {
+            "device": 2,
+            "title": "tenantA.deviceFoo.datasourceA.foo"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 13,
+        "fields": {
+            "device": 2,
+            "title": "tenantA.deviceFoo.datasourceA.bar"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 14,
+        "fields": {
+            "device": 2,
+            "title": "tenantA.deviceFoo.datasourceA.corge"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 15,
+        "fields": {
+            "device": 2,
+            "title": "tenantA.deviceFoo.datasourceB.batch"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 16,
+        "fields": {
+            "device": 2,
+            "title": "tenantA.deviceFoo.datasourceB.grault"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 17,
+        "fields": {
+            "device": 2,
+            "title": "tenantA.deviceFoo.datasourceB.garply"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 18,
+        "fields": {
+            "device": 2,
+            "title": "tenantA.deviceFoo.datasourceC.waldo"
+        }
+    },
+    {
+        "model": "monitoring.parameter",
+        "pk": 19,
+        "fields": {
+            "device": 2,
+            "title": "tenantA.deviceFoo.datasourceC.xyzzy"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 1,
+        "fields": {
+            "parameter": 1,
+            "timestamp": "2024-03-07T12:21:07.039807+02:00",
+            "value": 707.2730977292821,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 2,
+        "fields": {
+            "parameter": 2,
+            "timestamp": "2024-03-07T12:21:07.039807+02:00",
+            "value": "sNyXwevAPvVh",
+            "type": "text"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 3,
+        "fields": {
+            "parameter": 3,
+            "timestamp": "2024-03-07T12:21:07.039807+02:00",
+            "value": 923.9313270829437,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 4,
+        "fields": {
+            "parameter": 4,
+            "timestamp": "2024-03-07T12:21:07.039807+02:00",
+            "value": "MRyEbXMjLe",
+            "type": "text"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 5,
+        "fields": {
+            "parameter": 5,
+            "timestamp": "2024-03-07T12:21:07.039807+02:00",
+            "value": 684.2160512357387,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 6,
+        "fields": {
+            "parameter": 6,
+            "timestamp": "2024-03-07T12:21:07.039807+02:00",
+            "value": "pjb",
+            "type": "text"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 7,
+        "fields": {
+            "parameter": 7,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": 219.55849598589694,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 8,
+        "fields": {
+            "parameter": 8,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": "uCwnVcdzpQBoLeciXg",
+            "type": "text"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 9,
+        "fields": {
+            "parameter": 9,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": 238.17205192434722,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 10,
+        "fields": {
+            "parameter": 10,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": "DlKeLxRIei",
+            "type": "text"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 11,
+        "fields": {
+            "parameter": 11,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": 467.81852041742076,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 12,
+        "fields": {
+            "parameter": 12,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": "UygXmfOvnEhEtv",
+            "type": "text"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 13,
+        "fields": {
+            "parameter": 13,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": 655.5091341297699,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 14,
+        "fields": {
+            "parameter": 14,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": "SQJThjoDxBktpsJv",
+            "type": "text"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 15,
+        "fields": {
+            "parameter": 15,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": 494.5925685113969,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 16,
+        "fields": {
+            "parameter": 16,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": "cZ",
+            "type": "text"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 17,
+        "fields": {
+            "parameter": 17,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": 757.6942817427303,
+            "type": "numeric"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 18,
+        "fields": {
+            "parameter": 18,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": "cyazowbcaqcAxHgduK",
+            "type": "text"
+        }
+    },
+    {
+        "model": "monitoring.devicedata",
+        "pk": 19,
+        "fields": {
+            "parameter": 19,
+            "timestamp": "2024-03-07T12:21:07.038625+02:00",
+            "value": 239.17629037962618,
+            "type": "numeric"
+        }
+    }
+]

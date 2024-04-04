@@ -1,0 +1,24 @@
+[
+    {
+       "model":"monitoring.user",
+       "pk":1,
+       "fields":{
+          "password":"pbkdf2_sha256$390000$Vyqfv5xW0FGHMBrnf4FLAj$4vUyZHzCRSbC4sQ93q1TmaZiejwU5umm3WCeXcp0Mls=",
+          "last_login":null,
+          "is_superuser":true,
+          "username":"admin",
+          "first_name":"",
+          "last_name":"",
+          "email":"admin@email.com",
+          "is_staff":true,
+          "is_active":true,
+          "date_joined":"2023-01-26T19:42:44.626Z",
+          "groups":[
+             
+          ],
+          "user_permissions":[
+             
+          ]
+       }
+    }
+ ]
